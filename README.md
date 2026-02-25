@@ -20,7 +20,7 @@ This project is currently in the **design phase**. The Figma design is finalized
 
 ## 🖼️ Design Resources
 
-- **Figma Design File:** [View on Figma](https://www.figma.com/design/RhT0APtNrfYJzh8DyCMNA0/Health-Data-Dashboard)
+- **Figma Design File:** [View on Figma](https://www.figma.com/community/file/1608569078019745513/health-data-dashboard)
 - **Component Library:** Built with shadcn/ui + Radix UI
 - **Design System:** Accessible, reusable component patterns
 
